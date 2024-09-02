@@ -1,4 +1,4 @@
-/* Estilo geral */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +7,7 @@ body {
     color: #333;
 }
 
-/* Cabeçalho */
+
 header {
     text-align: center;
     padding: 50px 0;
@@ -20,7 +20,7 @@ header h1 {
     color: #333;
 }
 
-/* Imagem de perfil na página inicial */
+
 header img {
     border-radius: 50%;
     margin-top: 20px;
@@ -28,7 +28,7 @@ header img {
     height: auto;
 }
 
-/* Navegação */
+
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -52,12 +52,12 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #ff69b4; /* Tom mais claro de DeepPink */
+    background-color: #ff69b4; 
     color: white;
     border-radius: 5px;
 }
 
-/* Seções */
+
 section {
     padding: 20px;
     text-align: center;
@@ -67,7 +67,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Formulário de Contato */
+
 form {
     display: flex;
     flex-direction: column;
@@ -91,16 +91,16 @@ form button {
     padding: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #ff69b4; /* DeepPink */
+    background-color: #ff69b4; 
     color: white;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #ff1493; /* Tom mais escuro de DeepPink */
+    background-color: #ff1493; 
 }
 
-/* Rodapé */
+
 footer {
     text-align: center;
     padding: 20px 0;
